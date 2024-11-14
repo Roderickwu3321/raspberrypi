@@ -10301,3 +10301,4 @@ Already up to date.
 [INFO 2024-11-14_18:18:49] Localfile producing DAG in tml_read_LOCALFILE_step_3_kafka_producetotopic_dag-cybersecuritywithprivategpt-SuperRod-43fb.py
 [INFO 2024-11-14_18:18:52] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-cybersecuritywithprivategpt-SuperRod-43fb.py
 [INFO 2024-11-14_18:18:54] Visualization DAG in tml_system_step_7_kafka_visualization_dag-cybersecuritywithprivategpt-SuperRod-43fb.py
+[INFO 2024-11-14_18:19:05] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-cybersecuritywithprivategpt-SuperRod-43fb.py
