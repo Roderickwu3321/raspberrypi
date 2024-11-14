@@ -10297,3 +10297,4 @@ Already up to date.
 [INFO 2024-11-14_18:18:30] Deleting topic cisco-network-preprocess in tml_system_step_2_kafka_createtopic_dag-cybersecuritywithprivategpt-SuperRod-43fb.py
 [INFO 2024-11-14_18:18:33] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-cybersecuritywithprivategpt-SuperRod-43fb.py
 [INFO 2024-11-14_18:18:36] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-cybersecuritywithprivategpt-SuperRod-43fb.py
+[INFO 2024-11-14_18:18:39] Deleting topic cisco-network-privategpt in tml_system_step_2_kafka_createtopic_dag-cybersecuritywithprivategpt-SuperRod-43fb.py
