@@ -91,7 +91,7 @@ def processtransactiondata():
  brokerhost=default_args['brokerhost']
   # use the port in Viper.env file
  brokerport=int(default_args['brokerport'])
-  #if load balancing enter the microsericeid to route the HTTP to a specific machine
+  #if load balancing enter the microsericeid to route the HTTsubtopics=hostName,hostName,hostName~P to a specific machine
  microserviceid=default_args['microserviceid']
 
 
