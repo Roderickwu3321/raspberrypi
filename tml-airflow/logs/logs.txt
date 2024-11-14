@@ -10295,3 +10295,4 @@ Already up to date.
 [INFO 2024-11-14_17:09:53] TML Solution Studio: git push Status for project cybersecuritywithprivategpt-SuperRod-43fb: Everything up-to-date
 [INFO 2024-11-14_18:18:28] Deleting topic cisco-network-mainstream in tml_system_step_2_kafka_createtopic_dag-cybersecuritywithprivategpt-SuperRod-43fb.py
 [INFO 2024-11-14_18:18:30] Deleting topic cisco-network-preprocess in tml_system_step_2_kafka_createtopic_dag-cybersecuritywithprivategpt-SuperRod-43fb.py
+[INFO 2024-11-14_18:18:33] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-cybersecuritywithprivategpt-SuperRod-43fb.py
