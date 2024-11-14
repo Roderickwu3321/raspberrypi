@@ -10293,3 +10293,4 @@ Already up to date.
 [INFO 2024-11-14_17:09:52] TML Solution Studio: git add . Status: 
 [INFO 2024-11-14_17:09:52] TML Solution Studio: git commit -a Status for project cybersecuritywithprivategpt-SuperRod-43fb: fatal: paths 'project ...' with -a does not make sense
 [INFO 2024-11-14_17:09:53] TML Solution Studio: git push Status for project cybersecuritywithprivategpt-SuperRod-43fb: Everything up-to-date
+[INFO 2024-11-14_18:18:28] Deleting topic cisco-network-mainstream in tml_system_step_2_kafka_createtopic_dag-cybersecuritywithprivategpt-SuperRod-43fb.py
