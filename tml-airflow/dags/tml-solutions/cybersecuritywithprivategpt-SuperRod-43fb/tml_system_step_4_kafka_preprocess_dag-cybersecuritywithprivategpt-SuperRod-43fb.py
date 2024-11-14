@@ -51,7 +51,7 @@ datetime=lastUpdated~\
 
 msgid=~\
 
-latlong=’,
+latlong=',
 
 ######################################## DO NOT MODIFY BELOW #############################################
 
