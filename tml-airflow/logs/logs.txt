@@ -10423,3 +10423,4 @@ origin	https://<personal access token hidden>@github.com/Roderickwu3321/raspberr
 [INFO 2024-11-19_19:31:14] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-cybersecuritywithprivategpt-SuperRod-43fb.py
 [INFO 2024-11-19_19:32:18] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-cybersecuritywithprivategpt-SuperRod-43fb.py
 [INFO 2024-11-19_19:33:22] Deleting topic cisco-network-privategpt in tml_system_step_2_kafka_createtopic_dag-cybersecuritywithprivategpt-SuperRod-43fb.py
+[INFO 2024-11-19_19:33:34] MQTT producing DAG in tml_read_MQTT_step_3_kafka_producetotopic_dag-cybersecuritywithprivategpt-SuperRod-43fb.py
