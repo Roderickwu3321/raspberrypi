@@ -10346,3 +10346,4 @@ origin	https://<personal access token hidden>@github.com/Roderickwu3321/raspberr
 [INFO 2024-11-19_17:43:17] MQTT producing DAG in tml_read_MQTT_step_3_kafka_producetotopic_dag-cybersecuritywithprivategpt-SuperRod-43fb.py
 [INFO 2024-11-19_17:43:20] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-cybersecuritywithprivategpt-SuperRod-43fb.py
 [INFO 2024-11-19_17:43:23] Visualization DAG in tml_system_step_7_kafka_visualization_dag-cybersecuritywithprivategpt-SuperRod-43fb.py
+[INFO 2024-11-19_17:43:35] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-cybersecuritywithprivategpt-SuperRod-43fb.py
