@@ -73,8 +73,8 @@ def mqttserverconnect():
  tsslogging.tsslogit("MQTT producing DAG in {}".format(os.path.basename(__file__)), "INFO" )                     
  tsslogging.git_push("/{}".format(repo),"Entry from {}".format(os.path.basename(__file__)),"origin")        
 
- username = ""    
- password = ""   
+ username = "roderickwu"    
+ password = "Ss12015.123"   
  if 'MQTTUSERNAME' in os.environ:
        username = os.environ['MQTTUSERNAME']  
  if 'MQTTPASSWORD' in os.environ:
