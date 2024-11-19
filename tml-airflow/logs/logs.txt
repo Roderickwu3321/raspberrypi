@@ -10321,3 +10321,20 @@ branch.main.remote=origin
 branch.main.merge=refs/heads/main
 [INFO 2024-11-19_17:23:26] TML Solution Studio: Github Remote Status: origin	https://github.com/Roderickwu3321/raspberrypi.git (fetch)
 origin	https://<personal access token hidden>@github.com/Roderickwu3321/raspberrypi.git (push)
+[INFO 2024-11-19_17:30:16] TML Solution Studio Started: DOCKERUSERNAME=roderickwu28@gmail.com, GITUSERNAME=Roderickwu3321, GITREPOURL=https://github.com/Roderickwu3321/raspberrypi.git, AIRFLOWPORT=9000
+[INFO 2024-11-19_17:30:16] TML Solution Studio: Docker Login Status: WARNING! Your password will be stored unencrypted in /root/.docker/config.json.
+Configure a credential helper to remove this warning. See
+https://docs.docker.com/engine/reference/commandline/login/#credentials-store
+
+Login Succeeded
+[INFO 2024-11-19_17:30:16] TML Solution Studio: Github Config Status: core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/Roderickwu3321/raspberrypi.git
+remote.origin.fetch=+refs/heads/main:refs/remotes/origin/main
+remote.origin.pushurl=https://<personal access token hidden>@github.com/Roderickwu3321/raspberrypi.git
+branch.main.remote=origin
+branch.main.merge=refs/heads/main
+[INFO 2024-11-19_17:30:16] TML Solution Studio: Github Remote Status: origin	https://github.com/Roderickwu3321/raspberrypi.git (fetch)
+origin	https://<personal access token hidden>@github.com/Roderickwu3321/raspberrypi.git (push)
