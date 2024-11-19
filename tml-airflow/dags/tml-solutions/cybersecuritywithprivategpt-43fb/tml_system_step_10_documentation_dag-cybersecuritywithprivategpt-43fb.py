@@ -12,6 +12,7 @@ import tsslogging
 import shutil
 from git import Repo
 import time
+
 sys.dont_write_bytecode = True
 
 ######################################################USER CHOSEN PARAMETERS ###########################################################
@@ -25,7 +26,7 @@ default_args = {
 
 ############################################################### DO NOT MODIFY BELOW ####################################################
 # Instantiate your DAG
-@dag(dag_id="tml_system_step_10_documentation_dag", default_args=default_args, tags=["tml_system_step_10_documentation_dag"], schedule=None,  catchup=False)
+@dag(dag_id="tml_system_step_10_documentation_dag_cybersecuritywithprivategpt-43fb", default_args=default_args, tags=["tml_system_step_10_documentation_dag_cybersecuritywithprivategpt-43fb"], schedule=None,  catchup=False)
 def startdocumentation():
     # Define tasks
     def empty():
@@ -440,7 +441,6 @@ def generatedoc(**context):
       doparse("/{}/docs/source/operating.rst".format(sname), ["--clientport--;{}".format(TMLCLIENTPORT[1:])])
       dockerrun = ("docker run -d -p {}:{} -p {}:{} -p {}:{} -p {}:{} \-\-env TSS=0 \-\-env SOLUTIONNAME={} \-\-env SOLUTIONDAG={} \-\-env GITUSERNAME={} " \
                  " \-\-env GITREPOURL={} \-\-env SOLUTIONEXTERNALPORT={} " \
-                 " -v /var/run/docker.sock:/var/run/docker.sock:z " \
                  " \-\-env CHIP={} \-\-env SOLUTIONAIRFLOWPORT={} " \
                  " \-\-env SOLUTIONVIPERVIZPORT={} \-\-env DOCKERUSERNAME='{}' \-\-env CLIENTPORT={} " \
                  " \-\-env EXTERNALPORT={} \-\-env KAFKACLOUDUSERNAME='{}' " \
@@ -460,7 +460,6 @@ def generatedoc(**context):
       doparse("/{}/docs/source/operating.rst".format(sname), ["--clientport--;Not Applicable"])
       dockerrun = ("docker run -d -p {}:{} -p {}:{} -p {}:{} \-\-env TSS=0 \-\-env SOLUTIONNAME={} \-\-env SOLUTIONDAG={} \-\-env GITUSERNAME={} " \
                  " \-\-env GITREPOURL={} \-\-env SOLUTIONEXTERNALPORT={} " \
-                 " -v /var/run/docker.sock:/var/run/docker.sock:z " \
                  " \-\-env CHIP={} \-\-env SOLUTIONAIRFLOWPORT={} " \
                  " \-\-env SOLUTIONVIPERVIZPORT={} \-\-env DOCKERUSERNAME='{}' " \
                  " \-\-env EXTERNALPORT={} \-\-env KAFKACLOUDUSERNAME='{}' " \

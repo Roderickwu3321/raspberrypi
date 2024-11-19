@@ -10304,3 +10304,20 @@ Already up to date.
 [INFO 2024-11-14_18:19:05] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-cybersecuritywithprivategpt-SuperRod-43fb.py
 [INFO 2024-11-14_18:19:11] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-cybersecuritywithprivategpt-SuperRod-43fb.py
 [INFO 2024-11-14_18:20:09] {'_links': {'_self': 'https://readthedocs.org/api/v3/projects/cybersecuritywithprivategpt-superrod-43fb/', 'builds': 'https://readthedocs.org/api/v3/projects/cybersecuritywithprivategpt-superrod-43fb/builds/', 'environmentvariables': 'https://readthedocs.org/api/v3/projects/cybersecuritywithprivategpt-superrod-43fb/environmentvariables/', 'notifications': 'https://readthedocs.org/api/v3/projects/cybersecuritywithprivategpt-superrod-43fb/notifications/', 'redirects': 'https://readthedocs.org/api/v3/projects/cybersecuritywithprivategpt-superrod-43fb/redirects/', 'subprojects': 'https://readthedocs.org/api/v3/projects/cybersecuritywithprivategpt-superrod-43fb/subprojects/', 'superproject': 'https://readthedocs.org/api/v3/projects/cybersecuritywithprivategpt-superrod-43fb/superproject/', 'sync_versions': 'https://readthedocs.org/api/v3/projects/cybersecuritywithprivategpt-superrod-43fb/sync-versions/', 'translations': 'https://readthedocs.org/api/v3/projects/cybersecuritywithprivategpt-superrod-43fb/translations/', 'versions': 'https://readthedocs.org/api/v3/projects/cybersecuritywithprivategpt-superrod-43fb/versions/'}, 'created': '2024-11-14T18:20:09.057003Z', 'default_branch': 'master', 'default_version': 'latest', 'external_builds_privacy_level': 'public', 'homepage': 'http://template.readthedocs.io/', 'id': 1118437, 'language': {'code': 'en', 'name': 'English'}, 'modified': '2024-11-14T18:20:09.057025Z', 'name': 'cybersecuritywithprivategpt-SuperRod-43fb', 'privacy_level': 'public', 'programming_language': {'code': 'py', 'name': 'Python'}, 'repository': {'type': 'git', 'url': 'https://github.com/Roderickwu3321/cybersecuritywithprivategpt-SuperRod-43fb'}, 'single_version': False, 'slug': 'cybersecuritywithprivategpt-superrod-43fb', 'subproject_of': None, 'tags': ['automation', 'sphinx'], 'translation_of': None, 'urls': {'builds': 'https://readthedocs.org/projects/cybersecuritywithprivategpt-superrod-43fb/builds/', 'documentation': 'https://cybersecuritywithprivategpt-superrod-43fb.readthedocs.io/en/latest/', 'downloads': 'https://readthedocs.org/projects/cybersecuritywithprivategpt-superrod-43fb/downloads/', 'home': 'https://readthedocs.org/projects/cybersecuritywithprivategpt-superrod-43fb/', 'versions': 'https://readthedocs.org/projects/cybersecuritywithprivategpt-superrod-43fb/versions/'}, 'users': [{'username': 'roderickwu28@gmail.com'}], 'versioning_scheme': 'multiple_versions_with_translations'}
+[INFO 2024-11-19_17:23:25] TML Solution Studio Started: DOCKERUSERNAME=roderickwu28@gmail.com, GITUSERNAME=Roderickwu3321, GITREPOURL=https://github.com/Roderickwu3321/raspberrypi.git, AIRFLOWPORT=9000
+[INFO 2024-11-19_17:23:26] TML Solution Studio: Docker Login Status: WARNING! Your password will be stored unencrypted in /root/.docker/config.json.
+Configure a credential helper to remove this warning. See
+https://docs.docker.com/engine/reference/commandline/login/#credentials-store
+
+Login Succeeded
+[INFO 2024-11-19_17:23:26] TML Solution Studio: Github Config Status: core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/Roderickwu3321/raspberrypi.git
+remote.origin.fetch=+refs/heads/main:refs/remotes/origin/main
+remote.origin.pushurl=https://<personal access token hidden>@github.com/Roderickwu3321/raspberrypi.git
+branch.main.remote=origin
+branch.main.merge=refs/heads/main
+[INFO 2024-11-19_17:23:26] TML Solution Studio: Github Remote Status: origin	https://github.com/Roderickwu3321/raspberrypi.git (fetch)
+origin	https://<personal access token hidden>@github.com/Roderickwu3321/raspberrypi.git (push)
