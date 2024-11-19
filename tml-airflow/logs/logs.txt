@@ -10348,3 +10348,4 @@ origin	https://<personal access token hidden>@github.com/Roderickwu3321/raspberr
 [INFO 2024-11-19_17:43:23] Visualization DAG in tml_system_step_7_kafka_visualization_dag-cybersecuritywithprivategpt-SuperRod-43fb.py
 [INFO 2024-11-19_17:43:35] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-cybersecuritywithprivategpt-SuperRod-43fb.py
 [INFO 2024-11-19_17:43:42] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-cybersecuritywithprivategpt-SuperRod-43fb.py
+[INFO 2024-11-19_17:44:36] {'name': ['Project with slug "cybersecuritywithprivategpt-superrod-43fb" already exists.']}
